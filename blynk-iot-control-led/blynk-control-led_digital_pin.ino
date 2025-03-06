@@ -7,9 +7,9 @@
 // Blynk Twitter: https://twitter.com/blynk_app
 // Blynk Facebook: https://www.facebook.com/blynkapp
 
-#define BLYNK_TEMPLATE_ID "TMPL69laJw2kT"
-#define BLYNK_TEMPLATE_NAME "Smart Light"
-#define BLYNK_AUTH_TOKEN "C-5msVetprCVnDCKPog19cOXJvqVXB3o"
+#define BLYNK_TEMPLATE_ID "XXXXXXXXXXX"
+#define BLYNK_TEMPLATE_NAME "XXXXXXXXXXX"
+#define BLYNK_AUTH_TOKEN "XXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 
 #define BLYNK_PRINT Serial
@@ -21,7 +21,7 @@ char auth[] = BLYNK_AUTH_TOKEN;
 char ssid[] = "";  // Enter your Wifi Username
 char pass[] = "";  // Enter your Wifi password
 
-int ledpin = D2;
+int ledpin = D2; // GPIO4 
 
 void setup()
 {     
