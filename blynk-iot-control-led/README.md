@@ -1,6 +1,6 @@
 # Control LED menggunakan Blynk IoT
 
-[![Blynk IoT](https://static.blynk.cc/images/blynk-iota-logo-landscape.png)](https://blynk.io/)
+[![Blynk IoT](https://cdn.prod.website-files.com/6272e11601c9e296becde07b/665d3e23703fff50536fcae8_blynk-logo-green.svg)](https://blynk.io/)
 
 ## Deskripsi
 
