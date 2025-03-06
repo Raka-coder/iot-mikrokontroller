@@ -18,8 +18,8 @@
  
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "rakaadesti_2.4G";  // Enter your Wifi Username
-char pass[] = "Tasik12345";  // Enter your Wifi password
+char ssid[] = "";  // Enter your Wifi Username
+char pass[] = "";  // Enter your Wifi password
 
 int ledpin = D2;
 
