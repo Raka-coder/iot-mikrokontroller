@@ -38,12 +38,3 @@ Each project folder contains specific information about the board and platform u
 - To make it easier for anyone to learn, try, or develop their own IoT projects.
 
 ---
-
-## License
-
-Free to use for learning and development purposes.  
-Please provide credit if you use a significant portion of the code/project.
-
----
-
-&copy; 2025 Raka-coder
