@@ -1,49 +1,48 @@
-# Koleksi Project IoT Mikrokontroller
+# IoT Microcontroller Project Collection
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Raka-coder/iot-mikrokontroller)
 ![GitHub](https://img.shields.io/github/license/Raka-coder/iot-mikrokontroller)
 ![Last Commit](https://img.shields.io/github/last-commit/Raka-coder/iot-mikrokontroller)
 ![GitHub issues](https://img.shields.io/github/issues/Raka-coder/iot-mikrokontroller)
 
-Repositori ini berisi kumpulan project Internet of Things (IoT) menggunakan berbagai mikrokontroler dan platform populer.  
-Cocok untuk pembelajaran, eksperimen, maupun pengembangan lebih lanjut di bidang otomasi, smart home, dan notifikasi berbasis cloud.
+This repository contains a collection of Internet of Things (IoT) projects using various microcontrollers and popular platforms.  
+Suitable for learning, experimentation, and further development in automation, smart home, and cloud-based notification systems.
 
 ---
 
-
-> **Contoh struktur folder project:**
+> **Example project folder structure:**
 > ```
-> nama-project/
-> ├── src/             # Source code utama (misal .ino, .c, .cpp)
-> ├── schematic/       # Skematik rangkaian (Fritzing, PNG, dsb)
-> └── README.md        # Penjelasan singkat project & instruksi penggunaan
+> project-name/
+> ├── src/             # Main source code (e.g. .ino, .c, .cpp)
+> ├── schematic/       # Circuit schematics (Fritzing, PNG, etc.)
+> └── README.md        # Brief project description & usage instructions
 > ```
 
 ---
 
-## Platform & Board Didukung
+## Supported Platforms & Boards
 
-Project dalam repo ini dapat menggunakan berbagai board dan platform, antara lain:
+Projects in this repo may use various boards and platforms, including:
 - **ESP8266 / ESP32**
-- **Platform IoT populer**: Blynk, Arduino IoT Cloud, Sinric Pro, dsb.
-- **Integrasi layanan cloud & notifikasi**: WhatsApp, Google, Alexa, Telegram, dsb.
+- **Popular IoT platforms**: Blynk, Arduino IoT Cloud, Sinric Pro, etc.
+- **Cloud & notification integration**: WhatsApp, Google, Alexa, Telegram, etc.
 
-Setiap project memiliki informasi board dan platform secara detail di README masing-masing folder project.
-
----
-
-## Tujuan
-
-- Menjadi referensi project IoT berbasis mikrokontroller.
-- Mendokumentasikan eksperimen dengan berbagai platform cloud & board.
-- Memudahkan siapa saja untuk belajar, mencoba, atau mengembangkan project IoT sendiri.
+Each project folder contains specific information about the board and platform used in its respective README.
 
 ---
 
-## Lisensi
+## Purpose
 
-Bebas digunakan untuk keperluan pembelajaran dan pengembangan.  
-Sertakan kredit jika mengutip sebagian besar kode/project.
+- To serve as a reference for IoT projects based on microcontrollers.
+- To document experiments with various cloud platforms & boards.
+- To make it easier for anyone to learn, try, or develop their own IoT projects.
+
+---
+
+## License
+
+Free to use for learning and development purposes.  
+Please provide credit if you use a significant portion of the code/project.
 
 ---
 
